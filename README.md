@@ -2,7 +2,7 @@
 
 **Real-time industrial telemetry dashboard — built to answer one question: how do you stream 10 Hz sensor data into a React UI without drowning in re-renders?**
 
-🔗 **Live demo:** _add your Vercel URL here_
+🔗 **Live demo:** https://gridpulse-telu.vercel.app/
 
 ![React 19](https://img.shields.io/badge/React-19-61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6) ![Zustand](https://img.shields.io/badge/Zustand-5-764abc) ![No chart libs](https://img.shields.io/badge/charts-hand--rolled%20canvas-ffb454)
 
